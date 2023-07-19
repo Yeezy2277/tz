@@ -10,9 +10,19 @@
     "@types/node": "^16.18.38",
     "@types/react": "^18.2.14",
     "@types/react-dom": "^18.2.7",
+    "@types/react-window": "^1.8.5",
+    "antd": "^5.7.0",
+    "axios": "^1.4.0",
+    "crypto-browserify": "^3.12.0",
+    "dotenv": "^16.3.1",
+    "os-browserify": "^0.3.0",
+    "path-browserify": "^1.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "react-virtual": "^2.10.4",
+    "react-window": "^1.8.9",
+    "sass": "^1.63.6",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
@@ -39,5 +49,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "prettier": "3.0.0"
   }
 }
